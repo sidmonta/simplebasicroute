@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./www/dist",
+        "noImplicitAny": true,
+        "module": "esNext",
+        "target": "es5",
+        "allowJs": true,
+        "strictNullChecks": true,
+        "sourceMap": true,
+        "lib": [ "es2015", "dom" ]
+    }
+}

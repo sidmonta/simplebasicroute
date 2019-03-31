@@ -1,0 +1,24 @@
+{
+  "name": "simplebasicroute",
+  "version": "0.0.1",
+  "description": "A very basic route in typescript with dynamic import",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidmonta/simplebasicroute.git"
+  },
+  "keywords": [
+    "route",
+    "router",
+    "typescript"
+  ],
+  "author": "Sidmonta <sidmonta.15@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidmonta/simplebasicroute/issues"
+  },
+  "homepage": "https://github.com/sidmonta/simplebasicroute#readme"
+}
